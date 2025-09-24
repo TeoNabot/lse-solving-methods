@@ -15,4 +15,4 @@ We compare the accuracy of these methods by evaluating:
 ## Requirements
 - Python 3.x  
 - NumPy  
-- Matplotlib (for visualizations, if applicable)  
+- Matplotlib
